@@ -1,0 +1,18 @@
+﻿2020-05-03 15:43:12,930 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:43:12,943 INFO [10] AskiaTestTechnique.Program.Main - --------------Début de traitement-------------------
+2020-05-03 15:43:12,944 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:43:12,944 INFO [10] AskiaModel.ConvertCsvFileToJson.CheckFileExists - Le fichier CSV exist
+2020-05-03 15:43:12,946 INFO [10] AskiaTestTechnique.Program.Main - le temp d'execution est 00:00:00.0017369
+2020-05-03 15:43:12,946 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:43:12,969 INFO [10] AskiaTestTechnique.Program.Main - --------------Fin de traitement---------------------
+2020-05-03 15:43:12,970 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:43:13,138 INFO [12] AskiaModel.ConvertCsvFileToJson.GenerateJsonFile - Le fichier Json est bien gérer
+2020-05-03 15:43:31,449 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:43:31,463 INFO [10] AskiaTestTechnique.Program.Main - --------------Début de traitement-------------------
+2020-05-03 15:43:31,463 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:43:31,463 INFO [10] AskiaModel.ConvertCsvFileToJson.CheckFileExists - Le fichier CSV exist
+2020-05-03 15:43:31,465 INFO [10] AskiaTestTechnique.Program.Main - le temp d'execution est 00:00:00.0017174
+2020-05-03 15:43:31,465 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:43:31,467 INFO [10] AskiaTestTechnique.Program.Main - --------------Fin de traitement---------------------
+2020-05-03 15:43:31,467 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:43:31,622 INFO [12] AskiaModel.ConvertCsvFileToJson.GenerateJsonFile - Le fichier Json est bien gérer

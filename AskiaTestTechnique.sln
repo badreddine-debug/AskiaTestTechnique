@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskiaCSV", "AskiaTestTechnique\AskiaCSV.csproj", "{2670D1D0-20B1-4980-94AC-335601FE7794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskiaModel", "AskiaModel\AskiaModel.csproj", "{17F39E2D-7441-4E1D-A898-704591DCB86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskiaTU", "AskiaTU\AskiaTU.csproj", "{8DB3FFE3-4056-4DFD-A2D0-5FF2793F53B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2670D1D0-20B1-4980-94AC-335601FE7794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2670D1D0-20B1-4980-94AC-335601FE7794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2670D1D0-20B1-4980-94AC-335601FE7794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2670D1D0-20B1-4980-94AC-335601FE7794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F39E2D-7441-4E1D-A898-704591DCB86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F39E2D-7441-4E1D-A898-704591DCB86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F39E2D-7441-4E1D-A898-704591DCB86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F39E2D-7441-4E1D-A898-704591DCB86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB3FFE3-4056-4DFD-A2D0-5FF2793F53B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB3FFE3-4056-4DFD-A2D0-5FF2793F53B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB3FFE3-4056-4DFD-A2D0-5FF2793F53B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB3FFE3-4056-4DFD-A2D0-5FF2793F53B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

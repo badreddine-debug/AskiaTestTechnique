@@ -1,0 +1,10 @@
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\AskiaTestTechnique.exe.config
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\AskiaTestTechnique.exe
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\AskiaTestTechnique.pdb
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\AskiaModel.dll
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\AskiaModel.pdb
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\obj\Debug\AskiaTestTechnique.csprojResolveAssemblyReference.cache
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\obj\Debug\AskiaTestTechnique.exe
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\obj\Debug\AskiaTestTechnique.pdb
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL I7\Desktop\Project_Askia\AskiaTestTechnique\AskiaTestTechnique\bin\Debug\Newtonsoft.Json.xml

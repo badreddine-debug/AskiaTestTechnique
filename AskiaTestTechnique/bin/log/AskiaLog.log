@@ -1,0 +1,9 @@
+﻿2020-05-03 15:39:25,118 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:39:25,130 INFO [10] AskiaTestTechnique.Program.Main - --------------Début de traitement-------------------
+2020-05-03 15:39:25,131 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:39:25,131 INFO [10] AskiaModel.ConvertCsvFileToJson.CheckFileExists - Le fichier CSV exist
+2020-05-03 15:39:25,135 INFO [10] AskiaTestTechnique.Program.Main - le temp d'execution est 00:00:00.0040431
+2020-05-03 15:39:25,139 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------------------------
+2020-05-03 15:39:25,140 INFO [10] AskiaTestTechnique.Program.Main - --------------Fin de traitement---------------------
+2020-05-03 15:39:25,140 INFO [10] AskiaTestTechnique.Program.Main - ----------------------------------- ----------------
+2020-05-03 15:39:25,296 INFO [12] AskiaModel.ConvertCsvFileToJson.GenerateJsonFile - Le fichier Json est bien gérer
